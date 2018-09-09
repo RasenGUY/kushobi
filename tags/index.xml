@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kushobi Voodoo Ninja In Training</title>
-    <link>https://rasenguy.github.io/kushobi/tags/</link>
+    <link>localhost:1313/tags/</link>
     <description>Recent content in Tags on Kushobi Voodoo Ninja In Training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Apr 2018 13:49:42 +0200</lastBuildDate>
     
-	<atom:link href="https://rasenguy.github.io/kushobi/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apple</title>
-      <link>https://rasenguy.github.io/kushobi/tags/apple/</link>
+      <link>localhost:1313/tags/apple/</link>
       <pubDate>Sat, 28 Apr 2018 13:49:42 +0200</pubDate>
       
-      <guid>https://rasenguy.github.io/kushobi/tags/apple/</guid>
+      <guid>localhost:1313/tags/apple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bananas</title>
-      <link>https://rasenguy.github.io/kushobi/tags/bananas/</link>
+      <link>localhost:1313/tags/bananas/</link>
       <pubDate>Sat, 28 Apr 2018 13:49:42 +0200</pubDate>
       
-      <guid>https://rasenguy.github.io/kushobi/tags/bananas/</guid>
+      <guid>localhost:1313/tags/bananas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Horses</title>
-      <link>https://rasenguy.github.io/kushobi/tags/horses/</link>
+      <link>localhost:1313/tags/horses/</link>
       <pubDate>Sat, 28 Apr 2018 13:49:42 +0200</pubDate>
       
-      <guid>https://rasenguy.github.io/kushobi/tags/horses/</guid>
+      <guid>localhost:1313/tags/horses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pears</title>
-      <link>https://rasenguy.github.io/kushobi/tags/pears/</link>
+      <link>localhost:1313/tags/pears/</link>
       <pubDate>Sat, 28 Apr 2018 13:49:42 +0200</pubDate>
       
-      <guid>https://rasenguy.github.io/kushobi/tags/pears/</guid>
+      <guid>localhost:1313/tags/pears/</guid>
       <description></description>
     </item>
     
